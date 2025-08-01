@@ -17,7 +17,7 @@
 
 ### 💬 Let’s Connect
 
-- 📫 Email: **your.email@example.com**
+- 📫 Email: ranshuman0001@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if available)*
 
@@ -40,7 +40,7 @@
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
 | [🌤 Weather App](https://github.com/anshuman-roy/weather-app) | HTML, CSS, JS, API | Real-time weather dashboard |
-| [🖼 Image Gallery](https://github.com/anshuman-roy/image-gallery) | HTML, CSS, JS | Smooth scrollable image gallery |
+| [🖼 Image Gallery](https://github.com/anshuman-roy/) | HTML, CSS, JS | Smooth scrollable image gallery |
 | [💼 Portfolio Website](https://github.com/anshuman-roy/portfolio) | HTML, CSS, JS | Personal site showcasing my work |
 
 ---
