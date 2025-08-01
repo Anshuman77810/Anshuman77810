@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Anshuman Roy</h1>
 <h3 align="center">🚀 Junior Frontend Developer | Open to Freelance & Remote Jobs</h3>
