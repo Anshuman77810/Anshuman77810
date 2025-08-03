@@ -18,7 +18,7 @@
 ### 💬 Let’s Connect
 
 - 📫 Email: ranshuman0001@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/anshumanroy-dev/)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if available)*
 
 ---
